@@ -27,7 +27,7 @@ With Dunjarama, you can make your Moodle courses stand out, while keeping them f
 
 3. 🚕**Dunjarama_ProgressPath**  
    Custom-made, visually appealing SVG progress bars, designed to help learners track their progress in a playful, colorful way. Boost their motivation with a progress path that feels rewarding! 🚀  
-   👉 *[Link to Dunjarama_ProgressPath](#)*
+   👉 *[Link to Dunjarama_ProgressPath](https://github.com/FrauSpeckner/Dunjarama_ProgressPath)*
 
 ---
 
