@@ -7,7 +7,7 @@ Dunjarama, made by FrauSpeckner🙋, stands for fun, colorful graphics designed 
 ### What I’m working on:
 - 👩**Image Libraries** that go perfekt with the ImageHub-Plugin 🖼️
 - 🧱**Course Modules** that go perfekt with the C4L-Plugin  📚
-- 🚕**Playful Visual Progress Bars** that go perfekt with the PorgressPath-Plugin 🎯
+- 🚕**Playful Visual Progress Bars** that go perfekt with the ProgressPath-Plugin 🎯
 
 As a teacher who has been working with Moodle for years, and as a winner of the *Moodle Love* competition for course design 💖, I have a lot of experience in making Moodle courses more visual, structured, and accessible for all learners. Everything I create is tested to ensure full accessibility compliance. ♿
 
