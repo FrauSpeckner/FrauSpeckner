@@ -23,7 +23,7 @@ With Dunjarama, you can make your Moodle courses stand out, while keeping them f
 
 2. 🧱**Dunjarama_CourseModules**  
    Ready-to-use course modules complete with avatars and creative designs, perfect for giving your Moodle courses a unique and engaging look! 🎭  
-   👉 *[Link to Dunjarama_CourseModules](#)*
+   👉 *[Link to Dunjarama_CourseModules](https://github.com/FrauSpeckner/Dunjarama_CourseModules)*
 
 3. 🚕**Dunjarama_ProgressPath**  
    Custom-made, visually appealing SVG progress bars, designed to help learners track their progress in a playful, colorful way. Boost their motivation with a progress path that feels rewarding! 🚀  
