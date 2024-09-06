@@ -2,7 +2,7 @@
 
 ![Title Image](https://assets.codepen.io/7398902/readme.png)
 
-Dunjarama stands for fun, colorful graphics designed to bring a playful, comic-like style to your Moodle experience. It’s a brand that offers visuals you can seamlessly integrate into Moodle, making your courses more engaging, vibrant, and accessible.  💻🎨
+Dunjarama, made by FrauSpeckner🙋, stands for fun, colorful graphics designed to bring a playful, comic-like style to your Moodle experience. It’s a brand that offers visuals you can seamlessly integrate into Moodle, making your courses more engaging, vibrant, and accessible.  💻🎨
 
 ### What I’m working on:
 - 👩**Image Libraries** that go perfekt with the ImageHub-Plugin 🖼️
