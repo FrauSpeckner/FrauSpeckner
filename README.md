@@ -19,7 +19,7 @@ With Dunjarama, you can make your Moodle courses stand out, while keeping them f
 
 1. 👩**Dunjarama_ImageLibrary**  
    A collection of fun and colorful image databases that can be easily uploaded to Moodle via the Imagehub plugin. Use them anywhere in Moodle to brighten up your courses! 🌈  
-   👉 *[Link to Dunjarama_ImageLibrary](#)*
+   👉 *[Link to Dunjarama_ImageLibrary](https://github.com/FrauSpeckner/dunjarama_ImageLibary)
 
 2. 🧱**Dunjarama_CourseModules**  
    Ready-to-use course modules complete with avatars and creative designs, perfect for giving your Moodle courses a unique and engaging look! 🎭  
