@@ -59,23 +59,7 @@ Culturpals are Avatars from regions like France, Great Britain, Bavaria, Spain, 
 
 ---
 
-### 3️⃣ [Skill Pals](https://github.com/FrauSpeckner/Dunjarama_SkillPals)  
-**Develop core competencies visually.**  
-Skill Pals emphasize creativity, critical thinking, teamwork, and more.
-
-![Skill Pals Example](#) <!-- Add a Skill Pals example image here -->
-
----
-
-### 4️⃣ [Project Pals](https://github.com/FrauSpeckner/Dunjarama_ProjectPals)  
-**Tools for organizing projects.**  
-From kanban boards to team roles.
-
-![Project Pals Example](#) <!-- Add a Project Pals example image here -->
-
----
-
-### 5️⃣ [AI Buddys](https://github.com/FrauSpeckner/Dunjarama_AIBuddys)  
+### 3️⃣ [AI Buddys](https://github.com/FrauSpeckner/Dunjarama_AIBuddys)  
 **Futuristic visuals**  
 AI-Buddys are cute drawn little Buddys, they have Tip, Question, Task, Feedback boxes and already Task containers and a magic button, that loads a prompt in the Zwischenablage, that transforms the Chatbot in a persona. 
 
@@ -83,7 +67,7 @@ AI-Buddys are cute drawn little Buddys, they have Tip, Question, Task, Feedback 
 
 ---
 
-### 6️⃣ [Work Modes](https://github.com/FrauSpeckner/Dunjarama_WorkModes)  
+### 4️⃣ [Work Modes](https://github.com/FrauSpeckner/Dunjarama_WorkModes)  
 **Illustrations for productivity and work styles.**  
 There are different workmodes like 
 ***work*** write, read, present, work with tablet, ... 
