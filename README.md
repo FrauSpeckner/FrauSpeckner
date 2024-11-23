@@ -11,7 +11,7 @@ It provides material packages to different categorys, including:
 - **interactive boxes** using JavaScript,  
 - **matching SVGs** in an image library,  
 - **a visual progress bar**,  
-- and a planned a **visual course format**.  
+- and planned a **visual course format**.  
 
 ## 🚀 Explore the Dunjarama Ecosystem
 
