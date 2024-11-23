@@ -2,7 +2,7 @@
 
 ![Dunjarama Banner](#) ![Title Image](https://assets.codepen.io/7398902/readme.png)
 
-Dunjarama is your creative toolbox for Moodle, offering **consistent, themed content** across multiple plugins! Each category (like Cultural Pals) provides visual and interactive elements tailored to specific styles—whether it's French, Bavarian, or Latin American vibes.  
+Dunjarama is your creative toolbox for Moodle, offering **consistent, cthemed content** across multiple plugins! Each category (like Cultural Pals) provides visual and interactive elements tailored to specific styles—whether it's French, Bavarian, or Latin American vibes.  
 
 From **interactive course modules** to **clipart libraries**, **progress paths**, and even a **custom digital classroom format**, Dunjarama brings unity and flair to your Moodle setup! 🌟
 
@@ -128,8 +128,9 @@ From focus sessions to retrospectives, Work Modes include:
 ## 🌟 Why Dunjarama?  
 Dunjarama is **all about consistency** across Moodle plugins:
 - **Unified Themes:** Every category has matching visuals for boxes, cliparts, progress bars, and classroom formats.  
-- **Accessibility-First Design:** Fully inclusive for all users. ♿  
-- **Vibrant and Playful Style:** Designed to make learning fun and engaging.  
+- **Accessibility-First Design:** Fully inclusive, tested for compliance with accessibility standards. ♿
+-  **Consistent Across Plugins:** Unified visuals for ImageHub, C4L, ProgressPath, and beyond.  
+- **Vibrant and Playful Style:** Designed to make learning fun and engaging. Turn Moodle into a colorful, comic-inspired learning experience. 🎨  
 
 ---
 
@@ -137,10 +138,7 @@ Dunjarama is **all about consistency** across Moodle plugins:
 
 Have ideas, feedback, or want to contribute?  
 Reach out and join the Dunjarama community! 💬  
-
-📧 **Contact:** [frau.speckner@example.com](mailto:frau.speckner@example.com)  
-🌐 **Website:** [Dunjarama](https://dunjarama.example.com) *(Coming soon!)*  
-
+ 
 ---
 
 Thanks for exploring Dunjarama, and welcome to this colorful world of learning! 💕  
