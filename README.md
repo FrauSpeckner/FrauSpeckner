@@ -33,7 +33,7 @@ Each category is designed to seamlessly integrate across **four main Moodle plug
 - **Digital Classroom**: Currently in development, it will be a coure format. 🚀  
 
 ## Right now only to check out on Github: 
-**c4l**: Check it out on [GitHub](https://github.com/mebis-lp/moodle-tiny_c4l)
+**c4l**: Check it out on [mebis-branch c4l](https://github.com/mebis-lp/moodle-tiny_c4l)
 **imagehub**: - [ImageHub Repository](https://github.com/mebis-lp/moodle-repository_imagehub)
 
 
