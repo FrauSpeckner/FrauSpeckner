@@ -4,17 +4,24 @@
 
 # Dunjarama – Your Creative Toolbox for Moodle
 
-Dunjarama is your creative toolbox for Moodle, offering **thoughtfully crafted, accessible, consistent and perfectly coordinated content** 💖🎨  across multiple plugins! Each category provides visual and interactive elements tailored to specific styles.  
+Dunjarama is your creative toolbox for Moodle, offering **thoughtfully crafted, accessible, consistent and perfectly coordinated content** 💖🎨  across multiple plugins!
+
+It provides material packages to different categorys, including:  
+- **CSS-based boxes** with avatars and color coding,  
+- **interactive boxes** using JavaScript,  
+- **matching SVGs** in an image library,  
+- **a visual progress bar**,  
+- and a planned a **visual course format**.  
 
 ## 🚀 Explore the Dunjarama Ecosystem
 
 ### How It Works  
 Each category is designed to seamlessly integrate across **four main Moodle plugins**:
 
-## Categories:
+## Categories Examples:
 - **TeachPals**: Subject-specific mascots and avatars to make lessons more engaging.  
 - **CulturalPals**: Characters representing regions like Europe, Asia, Latin America, and beyond.  
-- **AI Buddys**: Adorable AI Buddies, customizable via transformation prompts that make your chatbot adopt their persona. 🤖  
+- **AI Buddys**: Adorable AI Buddies, that provide a magical transformation prompt that transform your chatbot in their persona. 🤖  
 - **WorkModes**: Tools for social forms like *individual*, *partner*, or *group work*, plus specific workflows like *show*, *discuss*, *write* or *deepen*. Everything with hand-drawn sketchnote figures that interact and moderate the content. 
 - **Retro**: Cute pixel graphics for a nostalgic, old-school vibe. 🎮  
 - **Story Boxes**: Narrative-driven design elements that bring stories to life.
@@ -25,12 +32,17 @@ Each category is designed to seamlessly integrate across **four main Moodle plug
 - **Progress Path**: A sleek visual progress bar to guide learners through courses.  
 - **Digital Classroom**: Currently in development, it will be a coure format. 🚀  
 
+## Right now only to check out on Github: 
+**c4l**: Check it out on [GitHub](https://github.com/mebis-lp/moodle-tiny_c4l)
+**imagehub**: - [ImageHub Repository](https://github.com/mebis-lp/moodle-repository_imagehub)
+
+
 Everything in Dunjarama is visually consistent, flexible, and perfect for any mood, theme, or audience. 💡
 
 ---
 
 
-## 🌈 Dunjarama Categories
+## 🌈 Check out some of Dunjarama Categories
 
 ### 1️⃣ [TeachPals](https://github.com/FrauSpeckner/Dunjarama_TeachPals)  
 **Visuals for teaching and learning scenarios.**  
